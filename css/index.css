@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+.page-header {
+	margin-top: 70px;
+}
+
+.panel-body {
+	padding-top: 0;
+}
+
+.img-responsive {
+	margin-bottom: 15px;
+}
+
